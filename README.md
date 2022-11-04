@@ -46,5 +46,9 @@
 <img src="https://logodownload.org/wp-content/uploads/2016/10/mysql-logo.png" alt="mysql" width="100" height="60"/> 
 <img src="https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png" alt="quarkus" width="100" height="60"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1319px-Solidity_logo.svg.png" alt="solidity" width="100" height="60"/>
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1319px-Solidity_logo.svg.png" alt="c-sharp" width="100" height="60"/>
+  <img src="![image](https://user-images.githubusercontent.com/71216800/199973727-fb7b3fdd-e26d-4e0c-9482-3ec75bb55592.png)
+" alt="azure" width="100" height="60"/>
+  <img src="" alt="mysql" width="100" height="60"/>
+  <img src="" alt="mysql" width="100" height="60"/>
 </p>
