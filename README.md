@@ -31,10 +31,7 @@
 ## 🚀 Languages and tools I've worked with
 
 <p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="60"/> 
 <img src="https://logospng.org/download/java/logo-java-2048.png" alt="java" width="100" height="60"/> 
-<img src="https://chrisconlan.com/wp-content/uploads/2018/06/haskell_logo_2.png" alt="haskell" width="100" height="60"/> 
-<img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" alt="oracle" width="100" height="60"/>
 <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" alt="mongodb" width="100" height="60"/> 
 <img src="https://www.devacademy.es/wp-content/uploads/2018/10/python-logo-1024x1024.png" alt="python" width="100" height="60"/> 
 <img src="http://wikiti.com.br/wp-content/uploads/2020/04/visual-studio-code-logo.png" alt="visualstudiocode" width="100" height="60"/> 
@@ -49,4 +46,7 @@
   <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" alt="c-sharp" width="100" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="azure" width="100" height="60"/>
   <img src="https://www.incredibuild.com/wp-content/uploads/2020/09/azure_devops-1.png" alt="azuredevops" width="100" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="60"/> 
+<img src="https://chrisconlan.com/wp-content/uploads/2018/06/haskell_logo_2.png" alt="haskell" width="100" height="60"/> 
+
 </p>
