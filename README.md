@@ -44,7 +44,7 @@
 <img src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg" alt="html-js-css" width="100" height="60"/>
 <img src="https://logonoid.com/images/phpmyadmin-logo.png" alt="phpmyadmin" width="100" height="60"/> 
 <img src="https://logodownload.org/wp-content/uploads/2016/10/mysql-logo.png" alt="mysql" width="100" height="60"/> 
-
-
+<img src="https://seeklogo.com/images/Q/quarkus-logo-C9F006782E-seeklogo.com.png" alt="quarkus" width="100" height="60"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1319px-Solidity_logo.svg.png" alt="solidity" width="100" height="60"/>
   
 </p>
