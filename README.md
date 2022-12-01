@@ -48,6 +48,6 @@
   <img src="https://www.incredibuild.com/wp-content/uploads/2020/09/azure_devops-1.png" alt="azuredevops" width="100" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="60"/> 
 <img src="https://chrisconlan.com/wp-content/uploads/2018/06/haskell_logo_2.png" alt="haskell" width="100" height="60"/>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcranq.io%2F&psig=AOvVaw3Dztg2vP96lWjc8sFhgJVT&ust=1669986304485000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCe3fW92PsCFQAAAAAdAAAAABAE" alt="haskell" width="100" height="60"/>
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fcranq.io%2F&psig=AOvVaw3Dztg2vP96lWjc8sFhgJVT&ust=1669986304485000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCe3fW92PsCFQAAAAAdAAAAABAE](https://maddyness-uk.twic.pics/2021/08/Screenshot-2021-08-13-at-09.23.32.png?twic=v1/resize=630)" alt="cranq" width="100" height="60"/>
 
 </p>
