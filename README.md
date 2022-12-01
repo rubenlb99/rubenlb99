@@ -41,7 +41,7 @@
 <img src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg" alt="html-js-css" width="100" height="60"/>
 <img src="https://logonoid.com/images/phpmyadmin-logo.png" alt="phpmyadmin" width="100" height="60"/> 
 <img src="https://logodownload.org/wp-content/uploads/2016/10/mysql-logo.png" alt="mysql" width="100" height="60"/> 
-<img src="https://user-images.githubusercontent.com/71216800/205060852-26172bb2-0994-4c8c-8d36-0c410a768840.png" alt="quarkus" width="100" height="60"/> 
+<img src="https://user-images.githubusercontent.com/71216800/205061065-2b354387-49af-43b0-8181-ddfffe9ae779.png" alt="quarkus" width="100" height="60"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1319px-Solidity_logo.svg.png" alt="solidity" width="100" height="60"/>
   <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" alt="c-sharp" width="100" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="azure" width="100" height="60"/>
