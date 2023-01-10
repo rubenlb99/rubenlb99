@@ -17,7 +17,7 @@
 
 <h1 align="center"> Hi there 👋, I'm Rubén </h1>
 
-<h3 align="center"> I'm a Full Stack Developer from Spain! </h3>
+<h3 align="center"> I'm a Software Developer from Spain! </h3>
 
 ## ✨ About me
 
