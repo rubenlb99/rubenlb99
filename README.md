@@ -28,7 +28,7 @@
 
 <br>
 
-## 🚀 Languages and tools I've worked with
+## 🚀 Languages and tools I've used most
 
 <p align="left"> 
 <img src="https://milpuntos.es/wp-content/uploads/docker.png" alt="java" width="100" height="60"/> 
