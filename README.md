@@ -34,7 +34,10 @@
 <img src="https://milpuntos.es/wp-content/uploads/docker.png" alt="java" width="100" height="60"/> 
 <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" alt="mongodb" width="100" height="60"/> 
 <img src="https://www.devacademy.es/wp-content/uploads/2018/10/python-logo-1024x1024.png" alt="python" width="100" height="60"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="azure" width="100" height="60"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="azure" width="100" height="60"/> 
+    <img src="https://www.incredibuild.com/wp-content/uploads/2020/09/azure_devops-1.png" alt="azuredevops" width="100" height="60"/>
+  <img src="https://user-images.githubusercontent.com/71216800/209539635-d3f8d049-1698-4ed9-94c3-0f68e61e31d1.png" alt=".net" width="100" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="60"/> 
 <img src="http://wikiti.com.br/wp-content/uploads/2020/04/visual-studio-code-logo.png" alt="visualstudiocode" width="100" height="60"/> 
 <img src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" alt="reactjs" width="100" height="60"/> 
 <img src="https://play-lh.googleusercontent.com/keVVojxW-b11NTKWZg8GulfLlhqBpATvqGFViblYsI0fxW_8a0sIPgyRlB94Gu1AQMY" alt="flask" width="100" height="60"/> 
@@ -46,9 +49,6 @@
 <img src="https://user-images.githubusercontent.com/71216800/205061065-2b354387-49af-43b0-8181-ddfffe9ae779.png" alt="quarkus" width="100" height="60"/> 
 <img src="https://miro.medium.com/max/1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" alt="expressjs" width="100" height="60"/>
   <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" alt="c-sharp" width="100" height="60"/>
-  <img src="https://www.incredibuild.com/wp-content/uploads/2020/09/azure_devops-1.png" alt="azuredevops" width="100" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="60"/> 
-<img src="https://user-images.githubusercontent.com/71216800/209539635-d3f8d049-1698-4ed9-94c3-0f68e61e31d1.png" alt=".net" width="100" height="60"/>
 
 
 </p>
