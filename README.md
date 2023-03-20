@@ -31,7 +31,8 @@
 ## 🚀 Languages and tools I've worked with
 
 <p align="left"> 
-<img src="https://logospng.org/download/java/logo-java-2048.png" alt="java" width="100" height="60"/> 
+<img src="https://logospng.org/download/java/logo-java-2048.png" alt="java" width="100" height="60"/>
+<img src="https://milpuntos.es/wp-content/uploads/docker.png" alt="java" width="100" height="60"/> 
 <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" alt="mongodb" width="100" height="60"/> 
 <img src="https://www.devacademy.es/wp-content/uploads/2018/10/python-logo-1024x1024.png" alt="python" width="100" height="60"/> 
 <img src="http://wikiti.com.br/wp-content/uploads/2020/04/visual-studio-code-logo.png" alt="visualstudiocode" width="100" height="60"/> 
