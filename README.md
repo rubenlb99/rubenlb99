@@ -34,7 +34,7 @@
 <img src="https://milpuntos.es/wp-content/uploads/docker.png" alt="java" width="100" height="60"/> 
 <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" alt="mongodb" width="100" height="60"/> 
 <img src="https://www.devacademy.es/wp-content/uploads/2018/10/python-logo-1024x1024.png" alt="python" width="100" height="60"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="azure" width="100" height="60"/> 
+  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png" alt="azure" width="100" height="60"/> 
     <img src="https://www.incredibuild.com/wp-content/uploads/2020/09/azure_devops-1.png" alt="azuredevops" width="100" height="60"/>
   <img src="https://user-images.githubusercontent.com/71216800/209539635-d3f8d049-1698-4ed9-94c3-0f68e61e31d1.png" alt=".net" width="100" height="60"/>
     <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" alt="c-sharp" width="100" height="60"/>
