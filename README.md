@@ -44,11 +44,8 @@
 <img src="https://play-lh.googleusercontent.com/keVVojxW-b11NTKWZg8GulfLlhqBpATvqGFViblYsI0fxW_8a0sIPgyRlB94Gu1AQMY" alt="flask" width="100" height="60"/> 
 <img src="https://logospng.org/download/java/logo-java-2048.png" alt="java" width="100" height="60"/>
 <img src="https://download.logo.wine/logo/Node.js/Node.js-Logo.wine.png" alt="nodejs" width="100" height="60"/>
-<img src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg" alt="html-js-css" width="100" height="60"/>
-<img src="https://logonoid.com/images/phpmyadmin-logo.png" alt="phpmyadmin" width="100" height="60"/> 
 <img src="https://logodownload.org/wp-content/uploads/2016/10/mysql-logo.png" alt="mysql" width="100" height="60"/> 
 <img src="https://user-images.githubusercontent.com/71216800/205061065-2b354387-49af-43b0-8181-ddfffe9ae779.png" alt="quarkus" width="100" height="60"/> 
-<img src="https://miro.medium.com/max/1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" alt="expressjs" width="100" height="60"/>
 
 
 </p>
