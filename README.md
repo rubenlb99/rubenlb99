@@ -34,6 +34,7 @@
 <img src="https://cdn.shortpixel.ai/spai/q_lossy+w_949+to_webp+ret_img/http://algotrading101.com/learn/wp-content/uploads/2022/09/Microsoft-Azure-Logo.png" alt="azure" width="100" height="60"/> 
 <img src="https://www.devacademy.es/wp-content/uploads/2018/10/python-logo-1024x1024.png" alt="python" width="100" height="60"/> 
 <img src="https://milpuntos.es/wp-content/uploads/docker.png" alt="docker" width="100" height="60"/>
+<img src="https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-04/K8S-logo.png" alt="kubernetes" width="100" height="60"/>
 <img src="https://logospng.org/download/java/logo-java-2048.png" alt="java" width="100" height="60"/>
 <img src="https://logodownload.org/wp-content/uploads/2016/10/mysql-logo.png" alt="mysql" width="100" height="60"/>
 <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" alt="mongodb" width="100" height="60"/> 
