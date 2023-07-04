@@ -35,7 +35,8 @@
 <img src="https://www.devacademy.es/wp-content/uploads/2018/10/python-logo-1024x1024.png" alt="python" width="100" height="60"/> 
 <img src="https://milpuntos.es/wp-content/uploads/docker.png" alt="docker" width="100" height="60"/>
 <img src="https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-04/K8S-logo.png" alt="kubernetes" width="100" height="60"/>
-<img src="https://infordata.com.pe/wp-content/uploads/2021/06/ubuntu.png" alt="ubuntu" width="100" height="60"/>
+<img src="https://linube.com/blog/wp-content/uploads/bash-logo.png" alt="bash" width="100" height="60"/>
+<img src="https://4.bp.blogspot.com/-VnHaVPAfOms/XDepW52T1BI/AAAAAAAAGQo/ZzujNs2KPkEmmtF1Astea01BkZ6RGStswCLcBGAs/s1600/powershell.png" alt="ps" width="100" height="60"/>
 <img src="https://logospng.org/download/java/logo-java-2048.png" alt="java" width="100" height="60"/>
 <img src="https://logodownload.org/wp-content/uploads/2016/10/mysql-logo.png" alt="mysql" width="100" height="60"/>
 <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" alt="mongodb" width="100" height="60"/> 
