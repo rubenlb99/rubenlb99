@@ -31,13 +31,13 @@
 ## 🚀 Languages and tools I've used most
 
 <p align="left">
+  <img src="https://www.devacademy.es/wp-content/uploads/2018/10/python-logo-1024x1024.png" alt="python" width="100" height="60"/> 
 <img src="https://cdn.shortpixel.ai/spai/q_lossy+w_949+to_webp+ret_img/http://algotrading101.com/learn/wp-content/uploads/2022/09/Microsoft-Azure-Logo.png" alt="azure" width="100" height="60"/> 
-<img src="https://www.devacademy.es/wp-content/uploads/2018/10/python-logo-1024x1024.png" alt="python" width="100" height="60"/> 
-<img src="https://milpuntos.es/wp-content/uploads/docker.png" alt="docker" width="100" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="100" height="60"/>
+<img src="https://logodownload.org/wp-content/uploads/2016/10/mysql-logo.png" alt="mysql" width="100" height="60"/>
+<img src="https://milpuntos.es/wp-content/uploads/docker.png" alt="docker" width="100" height="60"/>
 <img src="https://linube.com/blog/wp-content/uploads/bash-logo.png" alt="bash" width="100" height="60"/>
 <img src="https://logospng.org/download/java/logo-java-2048.png" alt="java" width="100" height="60"/>
-<img src="https://logodownload.org/wp-content/uploads/2016/10/mysql-logo.png" alt="mysql" width="100" height="60"/>
 <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" alt="mongodb" width="100" height="60"/> 
 <img src="https://www.incredibuild.com/wp-content/uploads/2020/09/azure_devops-1.png" alt="azuredevops" width="100" height="60"/>
 <img src="https://user-images.githubusercontent.com/71216800/209539635-d3f8d049-1698-4ed9-94c3-0f68e61e31d1.png" alt=".net" width="100" height="60"/>
